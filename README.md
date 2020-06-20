@@ -20,6 +20,5 @@ email: admin@admin.com; password: 12345
 
 IMPORTANT: Database resets every 30 mins like "12:00am, 12:30am, 1:00am" and so on. So anything you do will be lost after a short time.
 
-Link to the postmen documentation is here: https://documenter.getpostman.com/view/10786607/SztD4nEM?version=latest
-
+Link to the postmen documentation is here: https://documenter.getpostman.com/view/10786607/SztD4nEM?version=latest 
 
