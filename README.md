@@ -2,7 +2,9 @@
 
 Features: 
 
-Poduction environment; Login; Signup; Forgot password; Account verification; User profile; Ability to refresh token;
+Poduction environment; 
+
+Admin and user capabilities: Login; Signup; Forgot password; Account verification; User profile; Ability to refresh token;
 
 Admin capabilities: Users admin area with CRUD operations; Cities admin area with CRUD operations.
 
