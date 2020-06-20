@@ -16,8 +16,7 @@ where yourToken is the signed and encrypted token given in the response from the
 
 Login credentials:
 
-email: admin@admin.com
-password: 12345
+email: admin@admin.com; password: 12345
 
 IMPORTANT: Database resets every 30 mins like "12:00am, 12:30am, 1:00am" and so on. So anything you do will be lost after a short time.
 
